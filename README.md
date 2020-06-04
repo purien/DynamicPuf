@@ -1,4 +1,4 @@
-#Authentication Without Cryptography: Dynamic SRAM PUF Fingerprint
+# Authentication Without Cryptography: Dynamic SRAM PUF Fingerprint
 
 Pascal Urien – June 4th 2020
 
